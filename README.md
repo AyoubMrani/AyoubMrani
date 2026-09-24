@@ -17,7 +17,7 @@ Designed and evaluated a **hybrid dense/BM25 retriever** for IT incident resolut
 - **Architecture:** Locally-hosted, API-free, production-grade
 - **Stack:** Sentence-BERT, FastAPI, React, SQLite
 
-[Read Full Report →](https://github.com/AyoubMrani/rag-incident-resolution)
+[Read Full Report →](https://github.com/AyoubMrani/incident-report-generator)
 
 ### 🎓 Education
 - **Master's Degree** in Data Science & AI — ENS Tétouan (2024–Current)
