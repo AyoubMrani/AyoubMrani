@@ -25,10 +25,10 @@ Designed and evaluated a **hybrid dense/BM25 retriever** for IT incident resolut
 - **Specialized Technician Diploma** in Digital Development — OFPPT (2021–2023)
 
 ### 📫 Let's Connect
-- 📧 Email: ayoubmranialaaoui@gmail.com
+- 📧 Email: ayoubmranialaoui@gmail.com
 - 💼 LinkedIn: [Ayoub Mrani Alaoui](https://linkedin.com/in/ayoub-mrani-alaoui-1b5aa7237)
 - 📱 Phone: (+212) 619960100
-- 📍 Location: Tetouan, Morocco
+- 📍 Location: Fez, Morocco
 
 ### 💡 Open To
 - Collaborating on ML/AI projects
